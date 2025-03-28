@@ -1,4 +1,4 @@
-#  Course Registration App  
+#  Course Registration Exercise  
 
 ## 📌 Overview  
 This Android app allows students to register for a course by ensuring they have paid the required **registration fee**. The system validates the payment amount and provides **real-time feedback** using **RadioButtons** and **Toast notifications**.  
