@@ -11,7 +11,7 @@ This Android app allows students to register for a course by ensuring they have 
 - 🚀 **Toast Notifications:** Displays messages when payments are insufficient or registration is successful  
 
 ## 📱 Screenshots  
-*(Add screenshots here if needed)*  
+ 
 
 ## 🛠️ Tech Stack  
 - **Language:** Java
